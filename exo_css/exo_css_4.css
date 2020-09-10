@@ -30,3 +30,10 @@
     float: left 20px;
     top: 200px;
 }
+.droite
+{
+    background-color: black;
+    height: 250px;
+    float: right;
+    top: 0%;
+}
